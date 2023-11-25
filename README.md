@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @AsareR4
+- 👋 Hi, I’m Richard Asare
 - 👀 I’m interested in Science & Technology
-- 🌱 I’m currently learning Cybersecurity
+- 🌱 I’m currently learning Cybersecurity Engineering
 - 💞️ I’m looking to collaborate on building Tech tools 
 - 📫 How to reach me homsherlockar@gmail.com
 
